@@ -1,0 +1,22 @@
+{
+  "name": "my-ethersjs-devtools",
+  "version": "1.0.0",
+  "description": "Repo to learn to use ethers.js and make it easier for people to learn to Ethers.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gareth0712/my-ethersjs-devtools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gareth0712/my-ethersjs-devtools/issues"
+  },
+  "homepage": "https://github.com/gareth0712/my-ethersjs-devtools#readme",
+  "dependencies": {
+    "ethers": "^5.0.32"
+  }
+}
